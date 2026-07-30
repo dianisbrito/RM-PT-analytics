@@ -48,7 +48,3 @@ streamlit run app.py
 ## Tech stack
 
 `Python` · `scipy (ANOVA, regression)` · `Streamlit` · `pandas` · `plotly` · statistical methods aligned with `ISO 17034` · `ISO 17043` · `ISO 13528` · `ISO Guide 35`
-
-## About the author
-
-See full profile on [GitHub](https://github.com/dianisbrito/dianisbrito).
